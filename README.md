@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### datamongerbonny 👋
+- 🔭 I’m currently working on a book, Python for Geospatial Analysis: Theory, Tools, and Practice for Location Intelligence
 <!--
 **datamongerbonny/datamongerbonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
